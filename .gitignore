@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+houseprice/
 
 # Spyder project settings
 .spyderproject
